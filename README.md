@@ -1,4 +1,5 @@
-# analise-evasao-ufcg
+# Estatísticas Descritivas das Taxas de Evasão nos Períodos Exatos
+
 # Análise de Evasão - UFCG
 
 Este repositório contém a análise estatística da evasão no curso de Ciência da Computação da UFCG, comparando os currículos de 1999 e 2017.
